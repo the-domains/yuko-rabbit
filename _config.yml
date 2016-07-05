@@ -1,0 +1,14 @@
+layout_spectrum: 0.9638298
+color:
+  saturation: 0.5510638
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#D4E5C3'
+    - '#DCAF8C'
+    - '#001F34'
+    - '#86845B'
+    - '#60C5AD'
+  rhythmicContrast: 1
+typography_spectrum: 0.5659574
+name: Yuko Rabbit
